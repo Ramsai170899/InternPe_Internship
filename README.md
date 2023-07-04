@@ -30,7 +30,7 @@ python tictactoe.py
 
 
 ## Screenshots
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot]([screenshots/gameplay.png](https://github.com/Ramsai170899/InternPe_Internship/blob/main/TTT.png))
 
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements to suggest, please open an issue or submit a pull request. Let's make this game even better together! 🤝💡
