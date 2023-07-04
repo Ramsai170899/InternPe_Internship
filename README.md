@@ -22,8 +22,10 @@ This project was created as part of the InternPe Internships program, where I ha
 1. Clone the repository:
 git clone https://github.com/Ramsai170899/InternPe_Internship.git
 
+
 2. Navigate to the project directory:
 cd tic-tac-toe-game
+
 
 3. Run the game:
 python tictactoe.py
