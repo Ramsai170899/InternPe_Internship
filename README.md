@@ -31,6 +31,6 @@ Contributions are welcome! If you have any ideas or improvements to suggest, ple
 This project is licensed under the [MIT License](https://github.com/your-username/tic-tac-toe-game/blob/main/LICENSE).
 
 ## Acknowledgements
-I would like to express my gratitude to the InternPe team for providing the platform and guidance during the \#InternPeInternships program. Their support and mentorship were instrumental in the development of this project.
+I would like to express my gratitude to the InternPe team for providing the platform and guidance during the InternPe Vitual Internship program. Their support and mentorship were instrumental in the development of this project.
 
 If you have any questions or feedback, feel free to reach out. Enjoy playing Tic Tac Toe! Have fun! 🎉🎮
