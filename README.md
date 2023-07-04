@@ -4,7 +4,7 @@
 Welcome to the Tic Tac Toe game developed using Python and Tkinter! 🎮✨
 
 ## About
-This project was created as part of the #InternPeInternships program, where I had the opportunity to enhance my programming skills and delve into GUI programming. The game provides an interactive and visually appealing experience, allowing players to compete against each other in the classic Tic Tac Toe game. ⭕️❌
+This project was created as part of the InternPe Internships program, where I had the opportunity to enhance my programming skills and delve into GUI programming. The game provides an interactive and visually appealing experience, allowing players to compete against each other in the classic Tic Tac Toe game. ⭕️❌
 
 ## Features
 - User-friendly interface with colorful buttons
@@ -20,7 +20,6 @@ This project was created as part of the #InternPeInternships program, where I ha
 
 ## Installation
 1. Clone the repository:
-
 git clone https://github.com/your-username/tic-tac-toe-game.git
 
 2. Navigate to the project directory:
