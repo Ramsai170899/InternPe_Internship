@@ -19,7 +19,7 @@ This project was created as part of the InternPe Internships program, where I ha
 - Tkinter library
 
 ## cloning
-git clone https://github.com/Ramsai170899/InternPe_Internship.git
+git clone https://github.com/Ramsai170899/Tic-Tac-Toe_InternPe_Internship.git
 
 ## Screenshots
 ![Gameplay Screenshot](TTT.png)
